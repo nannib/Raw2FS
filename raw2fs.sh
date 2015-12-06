@@ -7,10 +7,10 @@ logo ()
 echo "**********************************************************" 
 echo "              Raw2Fs 1.2 - by Nanni Bassetti              " 
 echo "															" 
-echo " by this script it's possible to retrieve the file names  " 
-echo " from the names of the carved files by the Foremost tool  " 
+echo " With this script it's possible to retrieve file names  " 
+echo " from the names of the carved files with the Foremost tool  " 
 echo " or find out all the keywords in a device/bitstream file  " 
-echo " and to retrieve the file names o slack spaces where they "
+echo " and to retrieve file names or slack spaces where they "
 echo " are.														"  
 echo "**********************************************************" 
 }
